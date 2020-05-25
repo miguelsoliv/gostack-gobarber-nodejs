@@ -6,3 +6,12 @@ yarn-error.log
 
 .env
 dist
+
+.idea/
+.vscode/
+build/
+tmp/*
+!tmp/.gitkeep
+
+temp/*
+!temp/.gitkeep
